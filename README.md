@@ -1,2 +1,1 @@
-My first repo 
-A [link](http://example.com "Title").
+[link](http://example.com "Title").
